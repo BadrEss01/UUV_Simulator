@@ -1,0 +1,6 @@
+/build/
+/devel/
+/logs/
+/install/
+__pycache__/
+*.py[cod]
