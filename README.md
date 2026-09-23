@@ -2,7 +2,7 @@
 
 > **Supporting archive** · Upstream ROS/Gazebo framework; not a standalone personal perception implementation
 >
-> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+> [Selected projects](https://github.com/BadrEss01/BadrEss01#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
 
 Historical ROS 1 / Gazebo workspace containing the upstream UUV Simulator packages. This repository supports the underwater-robotics side of my coursework portfolio; it is not evidence that I authored the simulator.
 
@@ -26,4 +26,4 @@ The included upstream documentation describes ROS Kinetic, Lunar and Melodic wit
 
 See [reproduction notes](docs/REPRODUCTION.md) before attempting a build and [RAMI/BlueROV context](docs/RAMI_CONTEXT.md) for the distinction between the class project and this simulator workspace.
 
-[Portfolio](https://github.com/BadrEss01/BadrEss)
+[Portfolio](https://github.com/BadrEss01/BadrEss01)
